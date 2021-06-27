@@ -1,3 +1,5 @@
 node_modules
 assets/*.xlsx
+assets/*.XLSX
 output/*.json
+output/*.xlsx
